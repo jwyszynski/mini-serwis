@@ -1,5 +1,6 @@
 # mini-serwis
 Serwis stworzyłem aby uczyć się obsługi PHP wraz z MySQL oraz aby wrzucać tutaj różne przykłady wykorzystania języków JS, CSS, PHP, MySQL aby pomóc innym w nauce.
+Strona korzysta z responsywnego navbara, który nie jest mojego autorstwa. Cała reszta jest napisana przeze mnie.
 
 Działający serwis: [http://suchyskubi.ctkt.pl/mini-serwis/](http://suchyskubi.ctkt.pl/mini-serwis/)
 
