@@ -1,6 +1,8 @@
 # mini-serwis
 Serwis stworzyłem aby uczyć się obsługi PHP wraz z MySQL oraz aby wrzucać tutaj różne przykłady wykorzystania języków JS, CSS, PHP, MySQL aby pomóc innym w nauce.
 
+Działający serwis: [http://suchyskubi.ctkt.pl/mini-serwis/](http://suchyskubi.ctkt.pl/mini-serwis/)
+
 ## Funkcjonalności:
 1. Strona "Aktualności" pobiera z bazy dane o postach i wyświetla je wszystkie. Jej kod znajduje się w pliku aktualnosci.php
 2. W zakładce "Szkolne prace" znajduje się wiele przydatnych przykładów, które były rozwiązaniami zadań z Technikum.
