@@ -1,0 +1,120 @@
+.cd-paper {
+  border: 2px dotted #ddd;
+  padding: 15px;
+}
+
+footer {
+  margin-top: 100px;
+}
+
+hr {
+  border: 0;
+  height: 1px;
+  background: #333;
+  background-image: linear-gradient(to right, #ccc, #333, #ccc);
+}
+
+hr.split {
+  width: 300px;
+}
+
+.cd-main-content .content-wrapper h1 {
+  padding: 3em 0 1em 0;
+}
+
+.cd-main-content .content-wrapper h1.with-banner {
+  padding: 1em 0 1em 0;
+}
+
+h2 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+  padding: 5px;
+}
+
+input[type="text"],
+input[type="password"] {
+  width: 300px;
+  background-color: #efefef;
+  color: #666;
+  border: 1px solid #bbb;
+  border-radius: 5px;
+  font-size: 20px;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+input[type="submit"] {
+  width: 300px;
+  background-color: #1784c7;
+  color: #2c3136;
+  border: 1px solid #2794d7;
+  border-radius: 5px;
+  font-size: 20px;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+.login-box {
+  background-color: #fefefe;
+  width: 300px;
+  padding: 5px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.banner {
+  max-width: 800px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 10px;
+}
+
+.actual-code {
+  text-align: left;
+  background-color: #eee;
+  max-width: 400px;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 5px;
+}
+
+div.post div.code {
+  background-color: #eee;
+  max-width: 400px;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 5px;
+}
+
+.admin-part {
+  background-color: #eee;
+  width: 500px;
+  height: 150px;
+  display: inline-block;
+  padding: 3px;
+  margin: 10px;
+}
+
+.oddzielony {
+  border: #234 solid 1px;
+  padding: 10px;
+}
+
+.post {
+  max-width: 600px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+@media only screen and (max-width: 768px) {
+  .banner img {
+    max-width: 300px;
+  }
+  .banner {
+    max-width: 300px;
+  }
+}
