@@ -11,3 +11,6 @@ Działający serwis: [http://suchyskubi.ctkt.pl/mini-serwis/](http://suchyskubi.
 1. Strona "Aktualności" pobiera z bazy dane o postach i wyświetla je wszystkie. Jej kod znajduje się w pliku aktualnosci.php
 2. W zakładce "Szkolne prace" znajduje się wiele przydatnych przykładów, które były rozwiązaniami zadań z Technikum.
 3. Strona obsługuje konta użytkowników, każdy może się zarejestrować(kod: register.php) oraz zalogować(kod: sign-in.php, logi_valid.php), strona będzie utrzymywać sesje do czasu wylogowania(kod: logout.php)
+
+## Konfiguracja
+Podłączenie bazy danych MySQL -> mini-serwis/data/connect.php
